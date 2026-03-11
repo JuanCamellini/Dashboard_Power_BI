@@ -1,141 +1,87 @@
-# 📊 Data Jobs Market Analysis Dashboard (2024)
+# 📊 Power BI Data Analytics Projects
 
-![Dashboard Page 1](images/Dashboard.png)
+This repository contains **Power BI projects focused on data analytics and business intelligence**.
 
-## 📌 Project Overview
+The dashboards analyze large datasets related to the **data job market**, transforming raw data into interactive visualizations and actionable insights.
 
-This project analyzes **millions of job postings from 2024** related to the data industry, including roles such as:
+Each project includes its own **detailed README** explaining:
 
-- Data Engineer  
-- Data Analyst  
-- Data Scientist  
-- Machine Learning Engineer  
-- Business Analyst  
+- dataset information
+- business questions
+- data modeling
+- DAX calculations
+- dashboard features
 
-The objective of this dashboard is to transform large-scale raw job market data into actionable insights regarding demand, salary trends, work modality, and geographic distribution.
-
-Built entirely in **Power BI**, this project demonstrates data transformation, modeling, and business insight generation.
-
-
-
-## 🛠 Skills & Tools Used
-
-### 🔹 Data Transformation (ETL) – Power Query
-- Cleaning and normalization of raw data  
-- Handling millions of rows efficiently  
-- Standardizing salary formats (annual vs hourly)  
-- Removing inconsistencies and null values  
-- Data type optimization  
-
-### 🔹 Data Modeling
-- Relationship management  
-- Calculated columns and measures  
-- KPI development using DAX  
-- Trend calculations  
-
-### 🔹 Data Visualization & Storytelling
-- KPI Cards  
-- Monthly trend analysis  
-- Scatter plot salary comparison  
-- Drill-through functionality  
-- Geographic job distribution map  
-- Interactive filtering  
-
-
-
-## 📊 Dashboard Structure
-
-
-### 🟦 Page 1: High-Level Market View
-
-![Dashboard Page 1](images/Dashboard.png)
-
-This page provides a macro-level overview of the 2024 data job market.
-
-#### Key Insights:
-
-- **~478K job postings analyzed**
-- **$113K average annual salary**
-- **$49.37 average hourly salary**
-- Data Engineer is the most demanded role
-- Engineering-focused roles show higher compensation
-
-#### Visual Components:
-
-- KPI Summary Cards  
-- Monthly Job Trend (2024)  
-- Salary Comparison (Annual vs Hourly)  
-- Job Count by Role  
-- Detailed Salary & Trend Table  
-
-This page enables quick market benchmarking and demand comparison.
+For more details, please refer to the **README** inside each project folder.
 
 ---
 
-### 🟦 Page 2: Job Title Drill-Through Analysis
+## 🛠️ Tools & Technologies
 
-![Dashboard Page 2](images/DrillThrough.png)
+These projects were developed using:
 
-This page allows deep analysis by specific job title using drill-through functionality.
-
-Example shown: **Data Engineer**
-
-#### Detailed Analysis Includes:
-
-- Annual salary gauge (Min–Max range)
-- Hourly salary gauge
-- Remote work percentage
-- Education requirement indicator
-- Benefits availability
-- Geographic distribution (Global map)
-- Top hiring platforms
-- Work modality breakdown (Full-time vs Contractor)
-
-This enables role-specific salary benchmarking and market positioning.
-
-
-## 📈 Key Findings
-
-- Data Engineer leads market demand in 2024.
-- Machine Learning Engineer and Senior Data Scientist are among the highest-paid roles.
-- Approximately 89% of roles are Full-time.
-- Many job postings do not explicitly require a university degree.
-- LinkedIn dominates as the primary hiring platform.
-- Remote work is present but not dominant.
-
-
-## 🎯 Business Value
-
-This dashboard can support:
-
-- Career decision-making  
-- Salary negotiation strategy  
-- Market demand analysis  
-- Talent acquisition benchmarking  
-- Workforce planning  
-
-
-## 🚀 What I Learned
-
-- Managing and transforming large-scale datasets efficiently  
-- Building interactive dashboards with drill-through navigation  
-- Creating meaningful KPIs with DAX  
-- Translating raw job market data into business insights  
-
-
-
-## 📌 Future Improvements
-
-- Add skill-based analysis (Python, SQL, Cloud tools)
-- Salary distribution histogram
-- Predictive salary modeling
-- Time-series forecasting
+- 📊 Power BI
+- 🧮 DAX
+- 🔄 Power Query
+- 🗄️ Data Modeling
+- 📈 Data Visualization
 
 ---
 
-### 👤 Author
+## 📁 Projects Included
 
-Juan Camellini  
-Aspiring Data Analyst | Python | SQL | Power BI
+### 🌎 Global Data Jobs Analytics Dashboard
 
+Interactive dashboard analyzing the **global data job market**.
 
+Features include:
+
+- **drill-through** analysis by job title
+- global job distribution **map**
+- **salary** statistics
+- **job platform** analysis
+- **work modality** insights
+
+📂 See project folder for full details.
+
+---
+
+### 🇦🇷 Argentina Data Jobs Dashboard
+
+Power BI dashboard focused on the **data job market in Argentina**.
+
+Key analysis includes:
+
+- **most demanded** technical skills
+- **salary insights** for data-related roles
+- dynamic **filtering** by job title
+- interactive visualizations using **field parameters**
+
+📂 See project folder for full details.
+
+---
+
+## 📊 Purpose of This Repository
+
+The purpose of this repository is to showcase **Power BI dashboards and data analytics workflows**, including:
+
+- transforming large datasets
+- building interactive dashboards
+- performing data modeling
+- creating analytical metrics with DAX
+
+Each project demonstrates different **analytical techniques and Power BI features** used in real-world data analysis scenarios.
+
+---
+
+## 👨‍💻 Author
+
+Juan Camellini
+
+Aspiring **Data Analyst** focused on:
+
+- Python
+- SQL
+- Power BI
+- Data Visualization
+- Business Intelligence

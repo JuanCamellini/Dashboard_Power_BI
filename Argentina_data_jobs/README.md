@@ -48,7 +48,7 @@ The goal is to help understand the **current demand for technical skills and sal
 
 ## 🖥️ Dashboard Preview
 
-![Dashboard](/Argentina_data_jobs\images\Argentina_data_jobs_dashboard.png)
+![Dashboard](/Argentina_data_jobs/images/Argentina_data_jobs_dashboard.png)
 
 ---
 

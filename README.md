@@ -68,7 +68,8 @@ Power BI dashboard focused on the **data job market in Argentina**.
 - 📌 **KPI Card Visuals** to highlight key metrics such as job count and salary
 - 🔗 **Dynamic Cross-Filtering** between visuals to explore relationships in the data
 
-📂 See project folder for full details.
+[**View Full Argentina Project Details (README)**](/Argentina_data_jobs/README.md)
+📂 See README full details.
 
 ---
 

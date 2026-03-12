@@ -12,8 +12,6 @@ Each project includes its own **detailed README** explaining:
 - DAX calculations
 - dashboard features
 
-For more details, please refer to the **README** inside each project folder.
-
 ---
 
 ## 🛠️ Tools & Technologies
@@ -34,15 +32,22 @@ These projects were developed using:
 
 Interactive dashboard analyzing the **global data job market**.
 
-Features include:
+![Dashboard](/Data_Jobs/images/Panel_Trabajo_Datos.png)
 
-- **drill-through** analysis by job title
-- global job distribution **map**
-- **salary** statistics
-- **job platform** analysis
-- **work modality** insights
+## ⚡ Key Power BI Features Utilized
 
-📂 See project folder for full details.
+- 📊 **Implicit Measures & Standard Aggregations** for quick metric calculations
+- 🧮 **DAX Measures** for salary statistics and analytical metrics
+- 🔄 **Power Query ETL** for data cleaning, transformation, and preparation
+- 🗂️ **Data Modeling** using fact and dimension tables
+- 🎛️ **Interactive Slicers** for filtering by job title
+- 🔎 **Drill-through Analysis** to explore data by specific job titles
+- 🧭 **Buttons & Bookmarks Navigation** for interactive page switching
+- 🌍 **Map Visualizations** for geographic job distribution insights
+- 📈 **Dynamic Visual Interactions** between charts and filters
+
+[**View Full Global Project Details (README)**](/Data_Jobs/README.md)
+📂 See README for full details.
 
 ---
 
@@ -50,12 +55,18 @@ Features include:
 
 Power BI dashboard focused on the **data job market in Argentina**.
 
-Key analysis includes:
+![Dashboard](/Argentina_data_jobs/images/Argentina_data_jobs_dashboard.png)
 
-- **most demanded** technical skills
-- **salary insights** for data-related roles
-- dynamic **filtering** by job title
-- interactive visualizations using **field parameters**
+- 🗂️ **Relational Data Modeling** connecting job postings with related dimensions
+- ⭐ **Star Schema Structure** to optimize analytical queries and filtering
+- 🧮 **DAX Measures** for salary metrics and analytical calculations
+- 🔄 **Power Query ETL** for dataset cleaning, transformation, and preparation
+- 🎛️ **Interactive Slicers** for filtering by country and job title
+- 🔁 **Field Parameters** to dynamically switch chart metrics
+- 📊 **Bar Chart Visualizations** for skills demand and top paying roles
+- 🧠 **Median Salary Calculations** using DAX measures
+- 📌 **KPI Card Visuals** to highlight key metrics such as job count and salary
+- 🔗 **Dynamic Cross-Filtering** between visuals to explore relationships in the data
 
 📂 See project folder for full details.
 
